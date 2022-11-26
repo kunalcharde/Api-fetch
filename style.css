@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+img {
+    width: 25px;
+}
+
+td:nth-child(5) {
+    color: green
+}
+
+.table-group-divider {
+    border-top: none;
+}
